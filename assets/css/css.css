@@ -126,7 +126,7 @@ text-align: center;
 }
       @media (max-width : 760px) {
 .hero-section {
-    background: url('house1.jpg') center center/cover no-repeat;
+    background: url('../images/house1.jpg') center center/cover no-repeat;
     min-height: 45vh;
     display: flex;
     align-items: center;
