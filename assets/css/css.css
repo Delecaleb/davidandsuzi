@@ -125,6 +125,9 @@ text-align: center;
   background-color: transparent;
 }
       @media (max-width : 760px) {
+      .navbar-brand{
+        max-width: 70% !important;
+      }
 .hero-section {
     background: url('../images/house1.jpg') center center/cover no-repeat;
     min-height: 45vh;
